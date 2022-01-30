@@ -19,6 +19,7 @@ module.exports = {
       lightGrayish2: "hsl(189, 41%, 97%)",
     },
     container: {
+      center: true,
       padding: {
         DEFAULT: "1rem",
         sm: "2rem",
